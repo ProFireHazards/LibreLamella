@@ -40,8 +40,6 @@ This hardware is experimental and not a substitute for certified PPE or professi
 
 
 
-
-
 ==== HOW TO BUILD ===
 
 1. Undo all the seams of a thin clothing article you wish to plate
@@ -58,4 +56,5 @@ This hardware is experimental and not a substitute for certified PPE or professi
 
 7. Don't sue me and enjoy not having your ribs and/or other bones broken as easily by non lethal rounds
 
+Note: Reccomended to print in a strong, low tempurature material
 
